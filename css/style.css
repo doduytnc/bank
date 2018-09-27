@@ -1,0 +1,33 @@
+body {
+     font-family: Arial,sans-serif;
+     }
+#content {
+    width: 450px;
+    height: 230px;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    background: skyblue;
+    border: 1px dimgray solid;
+}
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+#submit_button input{
+    float: left;
+    margin-bottom: .5em;
+}
+#data input {
+    float: left;
+    width: 15em;
+    margin-bottom: .5em;
+}
+label {
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+}
+br {
+    clear: left;
+}
+
